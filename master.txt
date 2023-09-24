@@ -1,2 +1,3 @@
 this is master.txt file
 new line od code added
+next line of code added
