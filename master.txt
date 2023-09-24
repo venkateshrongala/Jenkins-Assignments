@@ -1,1 +1,2 @@
 this is master.txt file
+New update
